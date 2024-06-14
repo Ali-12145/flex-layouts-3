@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.navigation{
+    background-color: rgb(139, 53, 139);
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.sidebar{
+    background-color: rgb(103, 67, 221);
+    padding: 25px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    
+}
